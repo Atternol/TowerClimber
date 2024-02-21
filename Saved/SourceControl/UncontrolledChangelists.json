@@ -162,7 +162,10 @@
 				"Q:/GitHub/Games/TowerClimber/TowerClimber/Content/Blueprints/Characters/Pig/AS_Pig.uasset",
 				"Q:/GitHub/Games/TowerClimber/TowerClimber/Content/Blueprints/Characters/Pig/AnimSequences/Idle.uasset",
 				"Q:/GitHub/Games/TowerClimber/TowerClimber/Content/Blueprints/Characters/Pig/AnimSequences/Walk.uasset",
-				"Q:/GitHub/Games/TowerClimber/TowerClimber/Content/Blueprints/Characters/Pig/ABP_Pig.uasset"
+				"Q:/GitHub/Games/TowerClimber/TowerClimber/Content/Blueprints/Characters/Pig/ABP_Pig.uasset",
+				"Q:/GitHub/Games/TowerClimber/TowerClimber/Content/Blueprints/Characters/KIng/AnimSequences/Defeated.uasset",
+				"Q:/GitHub/Games/TowerClimber/TowerClimber/Content/CameraShake/CS_Defeated.uasset",
+				"Q:/GitHub/Games/TowerClimber/TowerClimber/Content/Blueprints/Characters/Pig/AnimSequences/Defeated.uasset"
 			]
 		}
 	]
