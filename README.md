@@ -7,7 +7,7 @@ Gameplay Video: https://youtu.be/D_AFblE8Zjo
 
 ## Link
 
-- For [Windows](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Atternol/Tanuki-VS-Toad/tree/main/Tanuki%20VS%20Toad%20-%20Samurai%20Edition/Tanuki%20Duel%20(Windows)) version
+Itch.io - https://atternol.itch.io/tower-climber-two-to-five-minutes
 
 ## Description
 
