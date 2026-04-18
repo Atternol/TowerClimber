@@ -7,7 +7,7 @@ Youtube Video (click):
 
 ## Link
 
-[Itch.io](https://atternol.itch.io/tower-climber-two-to-five-minutes)
+[Itch.io](https://alleroid.itch.io/tower-climber-two-to-five-minutes)
 
 ## Description
 
