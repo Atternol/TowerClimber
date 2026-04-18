@@ -4,6 +4,7 @@ Intermediate/
 DerivedDataCache/
 Build/
 Binaries/
+Windows/
 *.VC.db
 *.opensdf
 *.sdf
