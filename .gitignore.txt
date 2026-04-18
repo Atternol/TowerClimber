@@ -1,0 +1,16 @@
+# Unreal Engine
+Saved/
+Intermediate/
+DerivedDataCache/
+Build/
+Binaries/
+*.VC.db
+*.opensdf
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# Visual Studio
+.vs/

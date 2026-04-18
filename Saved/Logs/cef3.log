@@ -1,5 +1,17 @@
-[4328:9436:0417/211346.361:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[4328:9436:0417/211346.740:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[24332:23676:0417/211359.051:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C7356365CE15F6415A7FAA7F861FEB03 will be ignored
-[4328:8412:0417/211400.869:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4328:9436:0417/211534.046:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[20680:4908:0417/211802.521:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[20680:4908:0417/211802.558:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[11144:23384:0417/211811.244:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-27E5DE1FDBBBF3E928882F8DB950D3F4 will be ignored
+[20680:6552:0417/211811.597:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[20680:4908:0417/211925.059:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[20680:4908:0417/211930.069:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[20680:4908:0417/211935.072:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[20680:4908:0417/212015.175:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[20680:4908:0417/212020.175:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[20680:4908:0417/212025.226:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[20680:4908:0417/212040.397:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[20680:4908:0417/212123.483:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[20680:4908:0417/212128.804:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[20680:4908:0417/212224.151:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[20680:4908:0417/212229.190:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[20680:4908:0417/212254.490:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[20680:4908:0417/212626.186:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

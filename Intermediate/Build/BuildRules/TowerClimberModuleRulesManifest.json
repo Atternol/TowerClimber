@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\GitHub Repos\\TowerClimber\\Source\\TowerClimber\\TowerClimber.Build.cs",
+		"D:\\GitHub Repos\\TowerClimber\\Source\\TowerClimber.Target.cs",
+		"D:\\GitHub Repos\\TowerClimber\\Source\\TowerClimberEditor.Target.cs"
+	],
+	"EngineVersion": "5.7.4"
+}
