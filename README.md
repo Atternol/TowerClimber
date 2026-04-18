@@ -7,7 +7,7 @@ Gameplay Video: https://youtu.be/D_AFblE8Zjo
 
 ## Link
 
-Itch.io - https://atternol.itch.io/tower-climber-two-to-five-minutes
+[Itch.io](https://atternol.itch.io/tower-climber-two-to-five-minutes)
 
 ## Description
 
